@@ -9,6 +9,17 @@ description: 'SPREAD is a Berlin-based, AI-native engineering intelligence platf
   connectors to systems such as Teamcenter, Windchill, 3DEXPERIENCE, SAP, Polarion, JIRA, CATIA, and Creo.
   Customers include Volkswagen, Mercedes-Benz, BMW, Ford, Bosch, Audi, and Daimler Truck. Backed by HV
   Capital; added to the API Evangelist network and enriched from public sources.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
