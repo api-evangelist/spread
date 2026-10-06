@@ -41,7 +41,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 tags:
 - Company
 - Ai Enterprise Software
@@ -62,6 +62,10 @@ tags_raw:
 - AI
 apis: []
 common:
+- url: https://www.spread.ai/resources/stories
+  type: Blog
+- url: https://www.spread.ai/resources/stories/rss.xml
+  type: BlogRSS
 - type: TrustCenter
   url: security/spread-trust-center.yml
 - type: DomainSecurity
