@@ -1,0 +1,21 @@
+{
+  "repo": "spread",
+  "feeds": [
+    {
+      "source": "https://www.spread.ai/resources/stories",
+      "feed_url": "https://www.spread.ai/resources/stories/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.spread.ai/resources/stories/rss.xml",
+      "feed_url": "https://www.spread.ai/resources/stories/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
